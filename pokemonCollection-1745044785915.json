@@ -1,0 +1,42 @@
+[
+  {
+    "color": "default",
+    "type": "cyndaquil",
+    "size": "nano",
+    "name": ">poke",
+    "generation": "gen2",
+    "originalSpriteSize": 32
+  },
+  {
+    "color": "default",
+    "type": "arcanine",
+    "size": "nano",
+    "name": "Arcanine",
+    "generation": "gen1",
+    "originalSpriteSize": 32
+  },
+  {
+    "color": "default",
+    "type": "rhydon",
+    "size": "large",
+    "name": "Roxy",
+    "generation": "gen1",
+    "originalSpriteSize": 64
+  },
+  {
+    "color": "default",
+    "type": "chikorita",
+    "size": "nano",
+    "name": "Chikorita",
+    "generation": "gen2",
+    "originalSpriteSize": 32
+  },
+  {
+    "color": "default",
+    "type": "misdreavus",
+    "size": "large",
+    "name": "Lily",
+    "generation": "gen2",
+    "originalSpriteSize": 32
+  }
+]

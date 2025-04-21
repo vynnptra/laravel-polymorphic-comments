@@ -1,0 +1,58 @@
+[
+  {
+    "color": "default",
+    "type": "cyndaquil",
+    "size": "large",
+    "name": ">poke",
+    "generation": "gen2",
+    "originalSpriteSize": 32
+  },
+  {
+    "color": "default",
+    "type": "arcanine",
+    "size": "large",
+    "name": "Arcanine",
+    "generation": "gen1",
+    "originalSpriteSize": 32
+  },
+  {
+    "color": "default",
+    "type": "rhydon",
+    "size": "large",
+    "name": "Roxy",
+    "generation": "gen1",
+    "originalSpriteSize": 32
+  },
+  {
+    "color": "default",
+    "type": "chikorita",
+    "size": "large",
+    "name": "Chikorita",
+    "generation": "gen2",
+    "originalSpriteSize": 32
+  },
+  {
+    "color": "default",
+    "type": "misdreavus",
+    "size": "large",
+    "name": "Lily",
+    "generation": "gen2",
+    "originalSpriteSize": 32
+  },
+  {
+    "color": "default",
+    "type": "porygon2",
+    "size": "large",
+    "name": "Cookie",
+    "generation": "gen2",
+    "originalSpriteSize": 32
+  },
+  {
+    "color": "default",
+    "type": "porygon2",
+    "size": "large",
+    "name": "Henry",
+    "generation": "gen2",
+    "originalSpriteSize": 32
+  }
+]
